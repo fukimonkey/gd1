@@ -7,19 +7,16 @@ background-size: cover;
 background-repeat: no-repeat;  
 background-position:center center; 
 }
-.hero{
+.katarogu{
 background-image:url(images/gihuto1.jpg);
 text-align:center;  
 padding-top:10vh;
-}
-.container{
-    
 }
 .title{
 font-family:'Roboto', sans-serif;
 font-size:4.6rem;
 }
-.menu{
+.syouhinn{
 background-image:url(images/gihuto2.jpg); 
 }
 .title{
